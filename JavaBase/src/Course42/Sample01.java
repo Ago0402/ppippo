@@ -1,0 +1,6 @@
+package Course42;
+
+public class Sample01 {
+
+//+iK3CLh7YZlDdeFKzQhEdha2TVm4bK7cjaeIMsOwOxvrjjBsiCJycC6LSLbHV8bkc6GD23y/96ueaKrhHiBUCefRFKzM5MWsBv9chaMXWmHzjfO+Xp8Xh3m3uoZbKZwqVZMTD4Zc72HsopWcbPIefQdB04t89/1O/w1cDnyilFU=
+}
